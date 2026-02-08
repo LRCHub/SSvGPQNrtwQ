@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Hoodstar",
+  "base_artist": "ヒプノシスマイク -D.R.B- (Division All Stars)",
+  "createdAt": "2026-02-08T06:53:20.910152Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hoodstar",
+      "artist": "ヒプノシスマイク -D.R.B- (Division All Stars)",
+      "has_synced": true,
+      "path": "select/01_Hoodstar_ヒプノシスマイク_-D.R.B-_(Division_All_Stars).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hoodstar Freestyle",
+      "artist": "Uneducated Kid",
+      "has_synced": true,
+      "path": "select/02_Hoodstar_Freestyle_Uneducated_Kid.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hoodstar",
+      "artist": "Nocivo Regaz",
+      "has_synced": true,
+      "path": "select/03_Hoodstar_Nocivo_Regaz.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "HOODSTAR",
+      "artist": "Young Elle",
+      "has_synced": true,
+      "path": "select/04_HOODSTAR_Young_Elle.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hoodstar",
+      "artist": "ヒプノシスマイク-Division Rap Battle-",
+      "has_synced": true,
+      "path": "select/05_Hoodstar_ヒプノシスマイク-Division_Rap_Battle-.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hoodstar (Feat. Faith Evans & Kid Capri)",
+      "artist": "Redman",
+      "has_synced": false,
+      "path": "select/06_Hoodstar_(Feat._Faith_Evans_&_Kid_Capri)_Redman.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hoodstar",
+      "artist": "Redman, Evans, Faith & Kid Capri",
+      "has_synced": false,
+      "path": "select/07_Hoodstar_Redman,_Evans,_Faith_&_Kid_Capri.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hoodstar",
+      "artist": "Redman, Faith Evans",
+      "has_synced": false,
+      "path": "select/08_Hoodstar_Redman,_Faith_Evans.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hoodstar",
+      "artist": "Redman, Faith Evans & Kid Capri",
+      "has_synced": false,
+      "path": "select/09_Hoodstar_Redman,_Faith_Evans_&_Kid_Capri.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hoodstar",
+      "artist": "Redman",
+      "has_synced": false,
+      "path": "select/10_Hoodstar_Redman.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hoodstar feat. Kid Capri",
+      "artist": "Redman",
+      "has_synced": false,
+      "path": "select/11_Hoodstar_feat._Kid_Capri_Redman.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hoodstar",
+      "artist": "Redman, Faith Evans, Kid Capri",
+      "has_synced": false,
+      "path": "select/12_Hoodstar_Redman,_Faith_Evans,_Kid_Capri.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "HoodStar",
+      "artist": "YOUNG SLO-BE",
+      "has_synced": false,
+      "path": "select/13_HoodStar_YOUNG_SLO-BE.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hoodstar +",
+      "artist": "HYPNOSISMIC -D.R.B.-(Division All Stars)",
+      "has_synced": true,
+      "path": "select/14_Hoodstar_+_HYPNOSISMIC_-D.R.B.-(Division_All_Stars).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hoodstar",
+      "artist": "HYPNOSISMIC -D.R.B.-(Division All Stars)",
+      "has_synced": true,
+      "path": "select/15_Hoodstar_HYPNOSISMIC_-D.R.B.-(Division_All_Stars).lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hoodstar",
+      "artist": "Hooligan Hefs",
+      "has_synced": true,
+      "path": "select/16_Hoodstar_Hooligan_Hefs.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Hoodstar",
+      "artist": "Leigh Paris",
+      "has_synced": true,
+      "path": "select/17_Hoodstar_Leigh_Paris.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Hoodstar",
+      "artist": "Redman feat. Faith Evans, Kid Capri",
+      "has_synced": true,
+      "path": "select/18_Hoodstar_Redman_feat._Faith_Evans,_Kid_Capri.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Hoodstar",
+      "artist": "Division All Stars",
+      "has_synced": true,
+      "path": "select/19_Hoodstar_Division_All_Stars.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hoodstar",
+      "artist": "ヒプノシスマイク -D.R.B- (Division All Stars)",
+      "has_synced": false,
+      "path": "select/pl_01_Hoodstar_ヒプノシスマイク_-D.R.B-_(Division_All_Stars).txt"
+    }
+  ]
+}
